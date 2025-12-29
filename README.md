@@ -28,6 +28,4 @@ Optional (only needed if you want to visualize the synthetic example):
 Install (example):
 ```bash
 pip install numpy xarray scipy matplotlib
-
-## about
-`jiamin.py
+```
