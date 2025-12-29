@@ -12,6 +12,7 @@ submitted to Geophysical Research Letters.
 ## Description
 The code detects the Gulf Stream path using SST latitudinal gradient and
 produces the figures and diagnostics reported in the paper.
+Core detection routines are provided as a Python module (gs_detection.py), with a Jupyter Notebook illustrating the workflow.
 
 ## Requirements
 
