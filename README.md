@@ -14,11 +14,20 @@ The code detects the Gulf Stream path using SST latitudinal gradient and
 produces the figures and diagnostics reported in the paper.
 
 ## Requirements
-Python >= 3.9
-- numpy
-- xarray
-- scipy
 
-## Quick start
+Python >= 3.9
+
+Core dependencies:
+- `numpy`
+- `xarray`
+- `scipy`
+
+Optional (only needed if you want to visualize the synthetic example):
+- `matplotlib`
+
+Install (example):
 ```bash
-python run_example.py
+pip install numpy xarray scipy matplotlib
+
+## about
+`jiamin.py
